@@ -13,12 +13,12 @@ let x = 12;
 console.log(x);
 
 /* EX 5 */
-/* const name1 = "mahjaha"; */
+/*const name1 = "Claudio"; */ /*SyntaxError: Identifier 'name1' has already been declared */
 /* const name1 = "mama"; */
 /* console.log(name1); */
 
 /* EX 6 */
-console.log(x - 4);
+console.log("Il risultato è " + (x - 4));
 
 /* EX 7 */
 const name1 = "john";

@@ -57,14 +57,16 @@ console.log(name); */
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
-/* Cost  */
+/*const name1 = "Claudio"; */ /*SyntaxError: Identifier 'name1' has already been declared */
+/* const name1 = "mama"; */
+/* console.log(name1); */
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
 /* 
-console.log(x-4)
+console.log("Il risultato è " + (x - 4));
 */
 
 /* ESERCIZIO 7
@@ -73,13 +75,9 @@ console.log(x-4)
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-/* const name1 = "john"
-   const name2 = "John"
-   
-   console.log(name1===name2)
-   
-   let name2.toLowerCase();
+/* const name1 = "john";
+const name2 = "John";
 
-   console.log(name1===name2)
-   
-   */
+console.log(name1 === name2);
+console.log(name1 === name2.toLowerCase());
+*/
