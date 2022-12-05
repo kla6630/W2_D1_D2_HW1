@@ -12,12 +12,18 @@ REGOLE
 */
 
 /* I principali datatype in JavaScript sono Numeri, Stringhe, Dati Booleani, Null, e Undefined. 
+
 I primi, che vanno inseriti senza apici, possono essere interi e decimali.
+
 Le seconde invece, sono delle sequenze di caratteri e devono essere indicati tramite apici.
+
 I dati Booleani possono assumere solo ed unicamente due tipi di valori (TRUE o FALSE),
-in risposta ad una domanda che gli viene posta, mentre quelli di dipo Null indicano la 
-non presenza consapevole ed intenzionale di un oggetto che verrà inserito successivamente ma che non compie funzione attiva.
-Infine Le variabili di tipo Undefined sono quelle che non hanno un valore assegnato.
+in risposta ad una domanda che gli viene posta,
+
+mentre quelli di dipo Null indicano la non presenza consapevole ed intenzionale di un oggetto che verrà inserito successivamente 
+ma che non compie funzione attiva.
+
+In fine Le variabili di tipo Undefined sono quelle che non hanno un valore assegnato.
 
 Per indicare ciascuno di questi valori è necessario utilizzare una sintassi specifica
 non dimenticando che il JavaScript è un linguaggio "case sensitive", 
@@ -66,7 +72,7 @@ console.log(name); */
 */
 
 /* 
-console.log("Il risultato è " + (x - 4));
+console.log("Il risultato è " + (4 - x));
 */
 
 /* ESERCIZIO 7
